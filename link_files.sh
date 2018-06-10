@@ -8,7 +8,7 @@ then
     echo "$ sudo apt install zsh"
     sudo apt install zsh
     chsh -s $(which zsh)
-
+fi
 
 read -p "Install fonts-powerline? [yN] " -n 1 -r
 echo

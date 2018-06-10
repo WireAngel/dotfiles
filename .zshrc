@@ -3800,7 +3800,7 @@ POWERLEVEL9K_RAM_BACKGROUND='021'
 
 
 ZSH_THEME="powerlevel9k/powerlevel9k"
-source  ~/powerlevel9k/powerlevel9k.zsh-theme
+source  ~/Programs/dotfiles/powerlevel9k/powerlevel9k.zsh-theme
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir dir_writable rbenv anaconda vcs)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status root_indicator background_jobs command_execution_time ram battery)
